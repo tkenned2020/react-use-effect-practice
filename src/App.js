@@ -59,7 +59,7 @@ function App() {
             />Golden Yellow</label>
         </div>
 
-        {/* Generated display based on user selections above */}
+        {/* Generated display based on users selections above */}
         <h3 className="button-controls">Enjoy your turkey</h3>
         <PictureDisplay
             size={size}
@@ -72,4 +72,3 @@ function App() {
 }
 
 export default App;
-
